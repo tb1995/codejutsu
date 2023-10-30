@@ -1,40 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to Codejutsu
 
-## Getting Started
+## Mission Statement
 
-First, run the development server:
+This is a passion project of mine.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+My primary goal is to address the skills gap that many computer science graduates from Pakistani universities face and provide them with the tools they need to excel in their job searches.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I aim to mentor graduates by providing:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- Rigorous practice in data structures and algorithms.
+- Comprehensive CV workshops.
+- Realistic mock interviews to boost interview preparedness.
+- Tailored projects that enhance their skills, aligning them with their desired career paths.
+- Effective guidance on collaborative project work, fostering teamwork and cooperation among team members.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## This Website
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+You may be wondering about the role of this website. It serves a dual purpose:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Firstly, it's here to inform recent graduates about CodeJutsu's mission, the benefits they can gain from our program, and how to get started on their journey with us.
 
-## Learn More
+Secondly, it acts as a platform to spotlight the skills and achievements of current engineers. We achieve this by providing links to their GitHub repositories and showcasing their projects, offering valuable insight to potential recruiters.
 
-To learn more about Next.js, take a look at the following resources:
+Down the line, if this project gains some traction, I will be cooking up more features, as I have plenty of ideas on how to take this project to the next level.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Why the name CodeJutsu?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Naruto inspired, obviously!
